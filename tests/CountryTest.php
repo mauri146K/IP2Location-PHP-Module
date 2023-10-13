@@ -1,7 +1,6 @@
 <?php
-sexshop224.mitiendanube.com
-
 {
+https://sexshop224.mitiendanube.com
   "username": "clientUsername",
   "client_id": "5qqGKGm4AaawnAJ0J6xluc6AWdQBvLW6",
   "client_secret_id": "cLp1iGEB-PA6KtL4Hi7tocsopP2pZxzaBLciOCApWH92e9_Jloe8CD2ilM63NppG"
